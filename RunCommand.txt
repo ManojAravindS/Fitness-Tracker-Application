@@ -1,0 +1,11 @@
+For Compilation: 
+javac -cp ".;sqlite-jdbc-3.51.0.0.jar" FitnessTrackerApp.java
+
+
+
+For running the compiled code, 
+the code is already compiled, the user only needs to run the code:
+java -cp ".;sqlite-jdbc-3.51.0.0.jar" FitnessTrackerApp
+
+
+
